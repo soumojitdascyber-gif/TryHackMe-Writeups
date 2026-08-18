@@ -28,6 +28,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [SOC Fundamentals](./SOC-Fundamentals) | Blue Team | Core SOC processes and analyst workflows. |
 | ✅ | [SOC Role in Blue Team](./SOC-Role-in-Blue-Team) | Blue Team | Escalation, incident response, and SOC levels. |
 | ✅ | [The Phishing Pond](./The-Phishing-Pond) | Blue Team | Email header analysis and phishing detection. |
+| ✅ | [SOC L1 Alert Reporting](SOC-L1-Alert-Reporting/README.md) | Blue Team | Learn how to properly report, escalate, and communicate about high-risk SOC alerts. |
 
 ### ⚔️ Offensive Security (Red Team)
 

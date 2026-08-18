@@ -1,21 +1,18 @@
 # 🌐 DNS in Detail (TryHackMe)
 
 ## 🎯 Objective
-The goal of this room was to understand how the Domain Name System (DNS) translates human-readable domain names into IP addresses, and to learn about the DNS hierarchy and various DNS record types.
+Understand how the Domain Name System (DNS) works and manually extract various DNS records to understand domain configurations.
 
-## 🧠 Core Concepts Learned
-* **DNS Hierarchy:** Understood the complete resolution flow: Root Servers ➔ TLD (Top-Level Domain) Servers ➔ Authoritative Name Servers.
-* **DNS Records:** 
-  * `A Record`: Maps a domain to an IPv4 address.
-  * `AAAA Record`: Maps a domain to an IPv6 address.
-  * `CNAME`: Maps a domain to another domain (alias).
-  * `MX Record`: Directs email to a mail server.
-  * `TXT Record`: Holds text information (often used for domain verification and security policies like SPF/DKIM).
+## 🧠 Core Concepts & Execution
+* **Execution Environment:** Used the TryHackMe in-browser DNS emulator to build queries and view results.
+* **Tasks Performed:**
+  * Queried the `CNAME` record for `shop.website.thm` and found it points to `shops.myshopify.com`.
+  * Extracted the `TXT` record for `website.thm` to uncover the hidden flag.
+  * Checked the `MX` record to find the numerical priority value (which was 30).
+  * Queried the `A` record of `www.website.thm` to resolve its IP address (`10.10.10.10`).
 
-## 🛠️ Tools & Commands Used
-* **Tool:** Terminal / Command Line
-* **Command:** `nslookup` (or `dig`)
-  * *Usage:* Used to query DNS servers manually to retrieve IP addresses or specific DNS records for a target domain.
+## 🚩 Proof of Compromise
+* **Flag Found:** `THM{7012BBA60997F35A9516C2E16D2944FF}`
 
-## 💡 Key Takeaways (Security Perspective)
-DNS acts as the "phonebook of the internet." Understanding DNS is critical for a SOC Analyst or Pentester because attackers frequently abuse DNS for data exfiltration, Command and Control (C2) communication, or phishing via domain spoofing.
+## 💡 Key Takeaway
+Learned how to manually query specific DNS record types (A, CNAME, TXT, MX) and understand the distinct purpose of each record in routing internet traffic.

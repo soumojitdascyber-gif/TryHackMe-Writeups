@@ -1,2 +1,44 @@
 # TryHackMe-Writeups
 My practical lab write-ups and CTF solutions from TryHackMe.
+# 🛡️ Cybersecurity Operations & Pentesting Vault
+Welcome to my personal cybersecurity knowledge base! This repository serves as a documented journey of my hands-on experience in **Network Security, SOC (Blue Teaming), and Offensive Security**. 
+My focus is on practical skill-building, analyzing network artifacts, and understanding attacker TTPs (Tactics, Techniques, and Procedures).
+---
+## 📂 Repository Structure
+Each folder in this repository represents a dedicated lab or project. Inside each folder, you will find a `README.md` containing my detailed write-up, including:
+* 🎯 **Objective**
+* 🛠️ **Tools Used**
+* 💻 **Execution Steps (Commands & Logic)**
+* 🧠 **Key Takeaways (What I Learned)**
+---
+## 📜 Lab & Project Index
+### 🌐 Networking Core
+
+| Status | Lab / Room Name | Category | Description |
+| :--- | :--- | :--- | :--- |
+| ✅ | [DNS in Detail](./DNS-in-Detail) | Networking | Understanding DNS records and resolution. |
+| ✅ | [HTTP in Detail](./HTTP-in-Detail) | Networking | Web server requests and HTTP protocol. |
+| ✅ | [What is Networking?](./What-is-Networking) | Networking | OSI Model and basic network architecture. |
+| ✅ | [Networking Concepts](./Networking-Concepts) | Networking | TCP/IP protocol suite deep dive. |
+
+### 🛡️ Defensive Security (SOC / Blue Team)
+
+| Status | Lab / Room Name | Category | Description |
+| :--- | :--- | :--- | :--- |
+| ✅ | [SOC Fundamentals](./SOC-Fundamentals) | Blue Team | Core SOC processes and analyst workflows. |
+| ✅ | [SOC Role in Blue Team](./SOC-Role-in-Blue-Team) | Blue Team | Escalation, incident response, and SOC levels. |
+| ✅ | [The Phishing Pond](./The-Phishing-Pond) | Blue Team | Email header analysis and phishing detection. |
+
+### ⚔️ Offensive Security (Red Team)
+
+| Status | Lab / Room Name | Category | Description |
+| :--- | :--- | :--- | :--- |
+| ✅ | [Offensive Security Intro](./Offensive-Security-Intro) | Red Team | Basic web exploitation and ethical hacking intro. |
+
+---
+## 🛠️ Tools & Technologies I Use
+* **OS/Environments:** Kali Linux, Windows 
+* **Networking & Discovery:** Nmap, Telnet
+* **Documentation & Version Control:** Markdown, Git/GitHub
+---
+> *"In cybersecurity, hands-on experience and practical logic speak louder than words."*

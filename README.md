@@ -29,7 +29,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [SOC Role in Blue Team](./SOC-Role-in-Blue-Team) | Blue Team | Escalation, incident response, and SOC levels. |
 | ✅ | [The Phishing Pond](./The-Phishing-Pond) | Blue Team | Email header analysis and phishing detection. |
 | ✅ | [SOC L1 Alert Reporting](SOC-L1-Alert-Reporting/README.md) | Blue Team | Learn how to properly report, escalate, and communicate about high-risk SOC alerts. |
-| ✅ | [SOC L1 Alert Triage](./SOC-Level-1/SOC-L1-Alert-Triage.md) | Blue Team | Triage and investigate security alerts using a SIEM dashboard. |
+| ✅ | [SOC L1 Alert Triage](./SOC-L1-Alert-Triage/README.md) | Blue Team | Triage and investigate security alerts using a SIEM dashboard. |
 
 ### ⚔️ Offensive Security (Red Team)
 

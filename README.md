@@ -30,6 +30,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [The Phishing Pond](./The-Phishing-Pond) | Blue Team | Email header analysis and phishing detection. |
 | ✅ | [SOC L1 Alert Reporting](SOC-L1-Alert-Reporting/README.md) | Blue Team | Learn how to properly report, escalate, and communicate about high-risk SOC alerts. |
 | ✅ | [SOC L1 Alert Triage](./SOC-L1-Alert-Triage/README.md) | Blue Team | Triage and investigate security alerts using a SIEM dashboard. |
+| ✅ | [The CIA Triad](./The-CIA-Triad/README.md) | Blue Team | Understand the CIA Triad and how it shapes cyber security mindset. |
+| ✅ | [Cryptography Intro](./Cryptography-Intro/README.md) | Blue Team | Basics of encryption, decryption, and Caesar Cipher. |
 
 ### ⚔️ Offensive Security (Red Team)
 

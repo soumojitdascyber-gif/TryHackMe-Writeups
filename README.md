@@ -32,6 +32,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [SOC L1 Alert Triage](./SOC-L1-Alert-Triage/README.md) | Blue Team | Triage and investigate security alerts using a SIEM dashboard. |
 | ✅ | [The CIA Triad](./The-CIA-Triad/README.md) | Blue Team | Understand the CIA Triad and how it shapes cyber security mindset. |
 | ✅ | [Cryptography Intro](./Cryptography-Intro/README.md) | Blue Team | Basics of encryption, decryption, and Caesar Cipher. |
+| ✅ | [Introduction to EDR](./Intro-to-EDR/README.md) | Blue Team | Learn EDR fundamentals, telemetry, and alert investigation. |
+| ✅ | [Traffic Analysis Essentials](./Traffic-Analysis-Essentials/README.md) | Blue Team | Network Security basics and identifying network anomalies. |
 
 ### ⚔️ Offensive Security (Red Team)
 

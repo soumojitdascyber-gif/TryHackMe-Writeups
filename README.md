@@ -20,6 +20,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [HTTP in Detail](./HTTP-in-Detail) | Networking | Web server requests and HTTP protocol. |
 | ✅ | [What is Networking?](./What-is-Networking) | Networking | OSI Model and basic network architecture. |
 | ✅ | [Networking Concepts](./Networking-Concepts) | Networking | TCP/IP protocol suite deep dive. |
+| ✅ | [Linux Fundamentals (Pt1)](Linux-Fundamentals-Pt1/README.md) | Networking | Understanding basic Linux commands and interactive terminal usage. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -34,12 +35,15 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Cryptography Intro](./Cryptography-Intro/README.md) | Blue Team | Basics of encryption, decryption, and Caesar Cipher. |
 | ✅ | [Introduction to EDR](./Intro-to-EDR/README.md) | Blue Team | Learn EDR fundamentals, telemetry, and alert investigation. |
 | ✅ | [Traffic Analysis Essentials](./Traffic-Analysis-Essentials/README.md) | Blue Team | Network Security basics and identifying network anomalies. |
+| ✅ | [Defensive Security Intro](Defensive-Security-Intro/README.md) | Blue Team | Investigating an ongoing attack at FakeBank and handling incident response. |
+| ✅ | [Search Skills](Search-Skills/README.md) | Blue Team | Efficient internet search, OSINT, and domain-to-IP analysis. |
 
 ### ⚔️ Offensive Security (Red Team)
 
 | Status | Lab / Room Name | Category | Description |
 | :--- | :--- | :--- | :--- |
 | ✅ | [Offensive Security Intro](./Offensive-Security-Intro) | Red Team | Basic web exploitation and ethical hacking intro. |
+| ✅ | [Careers in Cyber](Careers-in-Cyber/README.md) | General | Exploring cybersecurity career paths and industry roles. |
 
 ---
 ## 🛠️ Tools & Technologies I Use

@@ -37,6 +37,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Traffic Analysis Essentials](./Traffic-Analysis-Essentials/README.md) | Blue Team | Network Security basics and identifying network anomalies. |
 | ✅ | [Defensive Security Intro](Defensive-Security-Intro/README.md) | Blue Team | Investigating an ongoing attack at FakeBank and handling incident response. |
 | ✅ | [Search Skills](Search-Skills/README.md) | Blue Team | Efficient internet search, OSINT, and domain-to-IP analysis. |
+| ✅ | [Malware Classification](./Malware-Classification/README.md) | Blue Team | Identify and classify common types of malware. |
+| ✅ | [Junior Security Analyst Intro](./Junior-Security-Analyst-Intro/README.md) | Blue Team | A day in the life of a SOC analyst, escalations, and firewalls. |
 
 ### ⚔️ Offensive Security (Red Team)
 

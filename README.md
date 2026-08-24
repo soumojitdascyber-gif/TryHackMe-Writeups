@@ -39,6 +39,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Search Skills](Search-Skills/README.md) | Blue Team | Efficient internet search, OSINT, and domain-to-IP analysis. |
 | ✅ | [Malware Classification](./Malware-Classification/README.md) | Blue Team | Identify and classify common types of malware. |
 | ✅ | [Junior Security Analyst Intro](./Junior-Security-Analyst-Intro/README.md) | Blue Team | A day in the life of a SOC analyst, escalations, and firewalls. |
+| ✅ | [Introduction to SIEM](Introduction-to-SIEM/README.md) | Blue Team | Learning SIEM fundamentals, features, and event analysis. |
+| ✅ | [Phishing Basics](Phishing-Basics/README.md) | Red Team | Exploring phishing techniques and social engineering concepts. |
 
 ### ⚔️ Offensive Security (Red Team)
 

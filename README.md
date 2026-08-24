@@ -41,6 +41,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Junior Security Analyst Intro](./Junior-Security-Analyst-Intro/README.md) | Blue Team | A day in the life of a SOC analyst, escalations, and firewalls. |
 | ✅ | [Introduction to SIEM](Introduction-to-SIEM/README.md) | Blue Team | Learning SIEM fundamentals, features, and event analysis. |
 | ✅ | [Phishing Basics](Phishing-Basics/README.md) | Red Team | Exploring phishing techniques and social engineering concepts. |
+| ✅ | [Cyber Kill Chain](Cyber-Kill-Chain/README.md) | Blue Team | Understanding adversary methodologies and network intrusion prevention via the Cyber Kill Chain. |
 
 ### ⚔️ Offensive Security (Red Team)
 

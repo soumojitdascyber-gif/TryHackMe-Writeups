@@ -21,6 +21,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [What is Networking?](./What-is-Networking) | Networking | OSI Model and basic network architecture. |
 | ✅ | [Networking Concepts](./Networking-Concepts) | Networking | TCP/IP protocol suite deep dive. |
 | ✅ | [Linux Fundamentals (Pt1)](Linux-Fundamentals-Pt1/README.md) | Networking | Understanding basic Linux commands and interactive terminal usage. |
+| ✅ | [Intro to LAN](./Intro-to-LAN/README.md) | Networking | Learn LAN topologies (Bus, Star) and private networks. |
+| ✅ | [Cold Boot](./Cold-Boot/README.md) | Fundamentals | Basic physical components of a computer system. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -42,6 +44,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Introduction to SIEM](Introduction-to-SIEM/README.md) | Blue Team | Learning SIEM fundamentals, features, and event analysis. |
 | ✅ | [Phishing Basics](Phishing-Basics/README.md) | Red Team | Exploring phishing techniques and social engineering concepts. |
 | ✅ | [Cyber Kill Chain](Cyber-Kill-Chain/README.md) | Blue Team | Understanding adversary methodologies and network intrusion prevention via the Cyber Kill Chain. |
+| ✅ | [SOC L2 Alert Triage](./SOC-L2-Alert-Triage/README.md) | Blue Team | Triage escalated alerts and respond to cyber threats. |
+| ✅ | [Network Traffic Basics](./Network-Traffic-Basics/README.md) | Blue Team | Analyze HTTP/DNS traffic to find malware and C2 servers. |
 
 ### ⚔️ Offensive Security (Red Team)
 

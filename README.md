@@ -46,6 +46,9 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Cyber Kill Chain](Cyber-Kill-Chain/README.md) | Blue Team | Understanding adversary methodologies and network intrusion prevention via the Cyber Kill Chain. |
 | ✅ | [SOC L2 Alert Triage](./SOC-L2-Alert-Triage/README.md) | Blue Team | Triage escalated alerts and respond to cyber threats. |
 | ✅ | [Network Traffic Basics](./Network-Traffic-Basics/README.md) | Blue Team | Analyze HTTP/DNS traffic to find malware and C2 servers. |
+| ✅ | [Phishing Analysis Fundamentals](./Phishing-Analysis-Fundamentals/README.md) | Blue Team | Analyze email headers, attachments, and decode Base64 payloads. |
+| ✅ | [Phishing Emails in Action](./Phishing-Emails-in-Action/README.md) | Blue Team | Examine real phishing emails and practice defanging malicious URLs. |
+| ✅ | [Network Security Essentials](./Network-Security-Essentials/README.md) | Blue Team | Investigate Firewall, VPN, and IDS logs to track C2 beaconing and exfiltration. |
 
 ### ⚔️ Offensive Security (Red Team)
 

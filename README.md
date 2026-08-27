@@ -12,7 +12,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 * 🧠 **Key Takeaways (What I Learned)**
 ---
 ## 📜 Lab & Project Index
-### 🌐 Networking Core
+### 🌐 Networking Core &  ⚙️ Fundamentals
 
 | Status | Lab / Room Name | Category | Description |
 | :--- | :--- | :--- | :--- |
@@ -23,6 +23,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Linux Fundamentals (Pt1)](Linux-Fundamentals-Pt1/README.md) | Networking | Understanding basic Linux commands and interactive terminal usage. |
 | ✅ | [Intro to LAN](./Intro-to-LAN/README.md) | Networking | Learn LAN topologies (Bus, Star) and private networks. |
 | ✅ | [Cold Boot](./Cold-Boot/README.md) | Fundamentals | Basic physical components of a computer system. |
+| ✅ | [Operating Systems: Introduction](./Operating-Systems-Introduction/README.md) | Fundamentals | Basic OS features and file system navigation. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -49,6 +50,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Phishing Analysis Fundamentals](./Phishing-Analysis-Fundamentals/README.md) | Blue Team | Analyze email headers, attachments, and decode Base64 payloads. |
 | ✅ | [Phishing Emails in Action](./Phishing-Emails-in-Action/README.md) | Blue Team | Examine real phishing emails and practice defanging malicious URLs. |
 | ✅ | [Network Security Essentials](./Network-Security-Essentials/README.md) | Blue Team | Investigate Firewall, VPN, and IDS logs to track C2 beaconing and exfiltration. |
+| ✅ | [Senior Security Analyst Intro](./Senior-Security-Analyst-Intro/README.md) | Blue Team | Explore duties beyond triage: Threat Hunting & Incident Response. |
 
 ### ⚔️ Offensive Security (Red Team)
 
@@ -56,6 +58,10 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | :--- | :--- | :--- | :--- |
 | ✅ | [Offensive Security Intro](./Offensive-Security-Intro) | Red Team | Basic web exploitation and ethical hacking intro. |
 | ✅ | [Careers in Cyber](Careers-in-Cyber/README.md) | General | Exploring cybersecurity career paths and industry roles. |
+
+### 🌐 Web Security & AppSec
+
+| ✅ | [OWASP Top 10 2025: IAAA Failures](./OWASP-Top-10-2025-IAAA-Failures/README.md) | Web Security | Understand Authentication failures, Horizontal Escalation, and IDOR. |
 
 ---
 ## 🛠️ Tools & Technologies I Use

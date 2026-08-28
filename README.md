@@ -24,6 +24,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Intro to LAN](./Intro-to-LAN/README.md) | Networking | Learn LAN topologies (Bus, Star) and private networks. |
 | ✅ | [Cold Boot](./Cold-Boot/README.md) | Fundamentals | Basic physical components of a computer system. |
 | ✅ | [Operating Systems: Introduction](./Operating-Systems-Introduction/README.md) | Fundamentals | Basic OS features and file system navigation. |
+| ✅ | [Windows Basics](./Windows-Basics/README.md) | Fundamentals | Navigate Windows OS, manage files, and use Windows Defender. |
+| ✅ | [History of Malware](./History-of-Malware/README.md) | Threat Intel | Learn the evolution of early malware into modern threats. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -51,6 +53,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Phishing Emails in Action](./Phishing-Emails-in-Action/README.md) | Blue Team | Examine real phishing emails and practice defanging malicious URLs. |
 | ✅ | [Network Security Essentials](./Network-Security-Essentials/README.md) | Blue Team | Investigate Firewall, VPN, and IDS logs to track C2 beaconing and exfiltration. |
 | ✅ | [Senior Security Analyst Intro](./Senior-Security-Analyst-Intro/README.md) | Blue Team | Explore duties beyond triage: Threat Hunting & Incident Response. |
+| ✅ | [Intro to Endpoint Security](./Intro-to-Endpoint-Security/README.md) | Blue Team | Learn methodologies and tooling for endpoint monitoring. |
 
 ### ⚔️ Offensive Security (Red Team)
 

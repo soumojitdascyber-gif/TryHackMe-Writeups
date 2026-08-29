@@ -65,6 +65,11 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 ### 🌐 Web Security & AppSec
 
 | ✅ | [OWASP Top 10 2025: IAAA Failures](./OWASP-Top-10-2025-IAAA-Failures/README.md) | Web Security | Understand Authentication failures, Horizontal Escalation, and IDOR. |
+| ✅ | [OWASP Top 10 2025: Insecure Data Handling](./OWASP-Top-10-2025-Insecure-Data-Handling/README.md) | Web Security | Explore SSTI, Insecure Deserialization, and Crypto failures. |
+
+### 🧠 Emerging Threats (AI)
+
+| ✅ | [AI Threat Modelling Assessment](./AI-Threat-Modelling-Assessment/README.md) | AI Security | Apply threat modelling frameworks to secure AI systems. |
 
 ---
 ## 🛠️ Tools & Technologies I Use

@@ -26,6 +26,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Operating Systems: Introduction](./Operating-Systems-Introduction/README.md) | Fundamentals | Basic OS features and file system navigation. |
 | ✅ | [Windows Basics](./Windows-Basics/README.md) | Fundamentals | Navigate Windows OS, manage files, and use Windows Defender. |
 | ✅ | [History of Malware](./History-of-Malware/README.md) | Threat Intel | Learn the evolution of early malware into modern threats. |
+| ✅ | [Security Awareness](Security-Awareness/README.md) | Fundamentals | Introduction to threat actors, breach impacts, and basic account security. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -54,6 +55,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Network Security Essentials](./Network-Security-Essentials/README.md) | Blue Team | Investigate Firewall, VPN, and IDS logs to track C2 beaconing and exfiltration. |
 | ✅ | [Senior Security Analyst Intro](./Senior-Security-Analyst-Intro/README.md) | Blue Team | Explore duties beyond triage: Threat Hunting & Incident Response. |
 | ✅ | [Intro to Endpoint Security](./Intro-to-Endpoint-Security/README.md) | Blue Team | Learn methodologies and tooling for endpoint monitoring. |
+| ✅ | [Common Attacks](Common-Attacks/README.md) | Blue Team | Threat actor profiling, phishing detection, and hash cracking. |
 
 ### ⚔️ Offensive Security (Red Team)
 
@@ -61,14 +63,19 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | :--- | :--- | :--- | :--- |
 | ✅ | [Offensive Security Intro](./Offensive-Security-Intro) | Red Team | Basic web exploitation and ethical hacking intro. |
 | ✅ | [Careers in Cyber](Careers-in-Cyber/README.md) | General | Exploring cybersecurity career paths and industry roles. |
+| ✅ | [Training Impact on Teams](Training-Impact-on-Teams/README.md) | General | Calculating security ROI, vendor selection, and team upskilling metrics. |
 
 ### 🌐 Web Security & AppSec
 
+| Status | Lab / Room Name | Category | Description |
+| :--- | :--- | :--- | :--- |
 | ✅ | [OWASP Top 10 2025: IAAA Failures](./OWASP-Top-10-2025-IAAA-Failures/README.md) | Web Security | Understand Authentication failures, Horizontal Escalation, and IDOR. |
 | ✅ | [OWASP Top 10 2025: Insecure Data Handling](./OWASP-Top-10-2025-Insecure-Data-Handling/README.md) | Web Security | Explore SSTI, Insecure Deserialization, and Crypto failures. |
 
 ### 🧠 Emerging Threats (AI)
 
+| Status | Lab / Room Name | Category | Description |
+| :--- | :--- | :--- | :--- |
 | ✅ | [AI Threat Modelling Assessment](./AI-Threat-Modelling-Assessment/README.md) | AI Security | Apply threat modelling frameworks to secure AI systems. |
 
 ---

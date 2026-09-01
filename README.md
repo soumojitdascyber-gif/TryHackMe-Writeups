@@ -27,6 +27,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Windows Basics](./Windows-Basics/README.md) | Fundamentals | Navigate Windows OS, manage files, and use Windows Defender. |
 | ✅ | [History of Malware](./History-of-Malware/README.md) | Threat Intel | Learn the evolution of early malware into modern threats. |
 | ✅ | [Security Awareness](Security-Awareness/README.md) | Fundamentals | Introduction to threat actors, breach impacts, and basic account security. |
+| ✅ | [Windows Fundamentals 1](Windows-Fundamentals-1/README.md) | Fundamentals | Basic Windows OS navigation, NTFS, UAC, and User Management. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -64,6 +65,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Offensive Security Intro](./Offensive-Security-Intro) | Red Team | Basic web exploitation and ethical hacking intro. |
 | ✅ | [Careers in Cyber](Careers-in-Cyber/README.md) | General | Exploring cybersecurity career paths and industry roles. |
 | ✅ | [Training Impact on Teams](Training-Impact-on-Teams/README.md) | General | Calculating security ROI, vendor selection, and team upskilling metrics. |
+| ✅ | [Passive Reconnaissance](Passive-Reconnaissance/README.md) | Red Team | Gather target intelligence stealthily using Whois, DNS, Shodan, and DNSDumpster. |
 
 ### 🌐 Web Security & AppSec
 
@@ -71,6 +73,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | :--- | :--- | :--- | :--- |
 | ✅ | [OWASP Top 10 2025: IAAA Failures](./OWASP-Top-10-2025-IAAA-Failures/README.md) | Web Security | Understand Authentication failures, Horizontal Escalation, and IDOR. |
 | ✅ | [OWASP Top 10 2025: Insecure Data Handling](./OWASP-Top-10-2025-Insecure-Data-Handling/README.md) | Web Security | Explore SSTI, Insecure Deserialization, and Crypto failures. |
+| ✅ | [Web Application Security](Web-Application-Security/README.md) | Web Security | Introduction to web app vulnerabilities, Cryptographic Failures, and IDOR. |
 
 ### 🧠 Emerging Threats (AI)
 

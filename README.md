@@ -59,6 +59,9 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Common Attacks](Common-Attacks/README.md) | Blue Team | Threat actor profiling, phishing detection, and hash cracking. |
 | ✅ | [Security Principles](Security-Principles/README.md) | Blue Team | Core security concepts (CIA/DAD), security models, and ISO/IEC 19249 design principles. |
 | ✅ | [Mobile Acquisition](Mobile-Acquisition/README.md) | Blue Team | Digital forensics methodologies, physical vs logical acquisition, and bypassing mobile hardware security. |
+| ✅ | [Pyramid Of Pain](Pyramid-Of-Pain/README.md) | Blue Team | Understanding indicators of compromise (IOCs) and how to effectively disrupt adversary TTPs. |
+| ✅ | [Junior Security Analyst](Junior-Security-Analyst/README.md) | Blue Team | A day in the life of a SOC analyst: triaging alerts, escalation, and firewall blocks. |
+
 
 ### ⚔️ Offensive Security (Red Team)
 
@@ -68,6 +71,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Careers in Cyber](Careers-in-Cyber/README.md) | General | Exploring cybersecurity career paths and industry roles. |
 | ✅ | [Training Impact on Teams](Training-Impact-on-Teams/README.md) | General | Calculating security ROI, vendor selection, and team upskilling metrics. |
 | ✅ | [Passive Reconnaissance](Passive-Reconnaissance/README.md) | Red Team | Gather target intelligence stealthily using Whois, DNS, Shodan, and DNSDumpster. |
+| ✅ | [Active Reconnaissance](Active-Reconnaissance/README.md) | Red Team | Active footprinting and banner grabbing using Ping, Traceroute, Telnet, and Netcat. |
 | ✅ | [Pentesting Fundamentals](Pentesting-Fundamentals/README.md) | Red Team | Introduction to ethical hacking, RoE, and White/Black Box methodologies. |
 
 ### 🌐 Web Security & AppSec

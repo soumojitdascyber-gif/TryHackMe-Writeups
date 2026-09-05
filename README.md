@@ -64,6 +64,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Junior Security Analyst](Junior-Security-Analyst/README.md) | Blue Team | A day in the life of a SOC analyst: triaging alerts, escalation, and firewall blocks. |
 | ✅ | [Defensive Security Trends 1](Defensive-Security-Trends 1/README.md) | Blue Team | Analysis of modern threat landscapes: Supply Chain Attacks, Infostealers, RMM abuse, and AI in SOC. |
 | ✅ | [Defensive Security Trends](Defensive-Security-Trends/README.md) | Blue Team | Analysis of modern threat landscapes: Supply Chain Attacks, Infostealers, RMM abuse, and IABs. |
+| ✅ | [Intro to Detection Engineering](Intro-to-Detection-Engineering/README.md) | Blue Team | Detection life cycle, detection-as-code, and writing behavior-based detection rules. |
 
 
 ### ⚔️ Offensive Security (Red Team)

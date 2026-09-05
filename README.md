@@ -28,6 +28,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [History of Malware](./History-of-Malware/README.md) | Threat Intel | Learn the evolution of early malware into modern threats. |
 | ✅ | [Security Awareness](Security-Awareness/README.md) | Fundamentals | Introduction to threat actors, breach impacts, and basic account security. |
 | ✅ | [Windows Fundamentals 1](Windows-Fundamentals-1/README.md) | Fundamentals | Basic Windows OS navigation, NTFS, UAC, and User Management. |
+| ✅ | [Data Representation](Data-Representation/README.md) | Fundamentals | Understanding binary, decimal, hexadecimal, and RGB data formats. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -61,6 +62,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Mobile Acquisition](Mobile-Acquisition/README.md) | Blue Team | Digital forensics methodologies, physical vs logical acquisition, and bypassing mobile hardware security. |
 | ✅ | [Pyramid Of Pain](Pyramid-Of-Pain/README.md) | Blue Team | Understanding indicators of compromise (IOCs) and how to effectively disrupt adversary TTPs. |
 | ✅ | [Junior Security Analyst](Junior-Security-Analyst/README.md) | Blue Team | A day in the life of a SOC analyst: triaging alerts, escalation, and firewall blocks. |
+| ✅ | [Defensive Security Trends 1](Defensive-Security-Trends 1/README.md) | Blue Team | Analysis of modern threat landscapes: Supply Chain Attacks, Infostealers, RMM abuse, and AI in SOC. |
+| ✅ | [Defensive Security Trends](Defensive-Security-Trends/README.md) | Blue Team | Analysis of modern threat landscapes: Supply Chain Attacks, Infostealers, RMM abuse, and IABs. |
 
 
 ### ⚔️ Offensive Security (Red Team)

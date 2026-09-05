@@ -76,6 +76,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Passive Reconnaissance](Passive-Reconnaissance/README.md) | Red Team | Gather target intelligence stealthily using Whois, DNS, Shodan, and DNSDumpster. |
 | ✅ | [Active Reconnaissance](Active-Reconnaissance/README.md) | Red Team | Active footprinting and banner grabbing using Ping, Traceroute, Telnet, and Netcat. |
 | ✅ | [Pentesting Fundamentals](Pentesting-Fundamentals/README.md) | Red Team | Introduction to ethical hacking, RoE, and White/Black Box methodologies. |
+| ✅ | [Nmap Live Host Discovery](Nmap-Live-Host-Discovery/README.md) | Networking | Active host discovery using ARP, ICMP types, TCP/UDP pings, and Reverse DNS. |
 
 ### 🌐 Web Security & AppSec
 

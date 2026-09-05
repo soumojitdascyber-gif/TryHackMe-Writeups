@@ -85,6 +85,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [OWASP Top 10 2025: IAAA Failures](./OWASP-Top-10-2025-IAAA-Failures/README.md) | Web Security | Understand Authentication failures, Horizontal Escalation, and IDOR. |
 | ✅ | [OWASP Top 10 2025: Insecure Data Handling](./OWASP-Top-10-2025-Insecure-Data-Handling/README.md) | Web Security | Explore SSTI, Insecure Deserialization, and Crypto failures. |
 | ✅ | [Web Application Security](Web-Application-Security/README.md) | Web Security | Introduction to web app vulnerabilities, Cryptographic Failures, and IDOR. |
+| ✅ | [Web Application Basics](Web-Application-Basics/README.md) | Web Security | Core HTTP/HTTPS concepts, request/response cycle, security headers, and API methods. |
 
 ### 🧠 Emerging Threats (AI)
 

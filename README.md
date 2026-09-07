@@ -29,6 +29,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Security Awareness](Security-Awareness/README.md) | Fundamentals | Introduction to threat actors, breach impacts, and basic account security. |
 | ✅ | [Windows Fundamentals 1](Windows-Fundamentals-1/README.md) | Fundamentals | Basic Windows OS navigation, NTFS, UAC, and User Management. |
 | ✅ | [Data Representation](Data-Representation/README.md) | Fundamentals | Understanding binary, decimal, hexadecimal, and RGB data formats. |
+| ✅ | [Windows Command Line](Windows-Command-Line/README.md) | Fundamentals | Essential CLI commands for system info, networking, and process management (cmd.exe). |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -65,6 +66,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Defensive Security Trends 1](Defensive-Security-Trends-1/README.md) | Blue Team | Analysis of modern threat landscapes: Supply Chain Attacks, Infostealers, RMM abuse, and AI in SOC. |
 | ✅ | [Defensive Security Trends](Defensive-Security-Trends/README.md) | Blue Team | Analysis of modern threat landscapes: Supply Chain Attacks, Infostealers, RMM abuse, and IABs. |
 | ✅ | [Intro to Detection Engineering](Intro-to-Detection-Engineering/README.md) | Blue Team | Detection life cycle, detection-as-code, and writing behavior-based detection rules. |
+| ✅ | [Threat Hunting: Introduction](Threat-Hunting-Introduction/README.md) | Blue Team | Foundational threat hunting concepts, dwell time reduction, and intelligence-driven hunting. |
+| ✅ | [Defensive Security Intro](Defensive-Security-Intro-1/README.md) | Blue Team | Practical incident response lifecycle: Alert triage, containment, intelligence updating, and reporting. |
 
 
 ### ⚔️ Offensive Security (Red Team)

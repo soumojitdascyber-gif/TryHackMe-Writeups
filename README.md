@@ -30,6 +30,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Windows Fundamentals 1](Windows-Fundamentals-1/README.md) | Fundamentals | Basic Windows OS navigation, NTFS, UAC, and User Management. |
 | ✅ | [Data Representation](Data-Representation/README.md) | Fundamentals | Understanding binary, decimal, hexadecimal, and RGB data formats. |
 | ✅ | [Windows Command Line](Windows-Command-Line/README.md) | Fundamentals | Essential CLI commands for system info, networking, and process management (cmd.exe). |
+| ✅ | [Cryptography Basics](Cryptography-Basics/README.md) | Fundamentals | Introduction to encryption, ciphertext, symmetric standards (AES/DES), and basic crypto math. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -68,7 +69,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Intro to Detection Engineering](Intro-to-Detection-Engineering/README.md) | Blue Team | Detection life cycle, detection-as-code, and writing behavior-based detection rules. |
 | ✅ | [Threat Hunting: Introduction](Threat-Hunting-Introduction/README.md) | Blue Team | Foundational threat hunting concepts, dwell time reduction, and intelligence-driven hunting. |
 | ✅ | [Defensive Security Intro](Defensive-Security-Intro-1/README.md) | Blue Team | Practical incident response lifecycle: Alert triage, containment, intelligence updating, and reporting. |
-
+| ✅ | [Intro to Digital Forensics](Intro-to-Digital-Forensics/README.md) | Blue Team | Basics of digital investigations, Chain of Custody, and metadata extraction using exiftool/pdfinfo. |
+| ✅ | [Detecting Web Attacks](Detecting-Web-Attacks/README.md) | Blue Team | Web attack detection via log analysis, spotting SQLi/Brute-force, and WAF configuration. |
 
 ### ⚔️ Offensive Security (Red Team)
 

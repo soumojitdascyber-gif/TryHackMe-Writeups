@@ -31,6 +31,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Data Representation](Data-Representation/README.md) | Fundamentals | Understanding binary, decimal, hexadecimal, and RGB data formats. |
 | ✅ | [Windows Command Line](Windows-Command-Line/README.md) | Fundamentals | Essential CLI commands for system info, networking, and process management (cmd.exe). |
 | ✅ | [Cryptography Basics](Cryptography-Basics/README.md) | Fundamentals | Introduction to encryption, ciphertext, symmetric standards (AES/DES), and basic crypto math. |
+| ✅ | [CyberChef: The Basics](CyberChef-The-Basics/README.md) | Blue Team | Mastery of the CyberChef tool for data decoding, extraction, and encoding formats. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -83,6 +84,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Active Reconnaissance](Active-Reconnaissance/README.md) | Red Team | Active footprinting and banner grabbing using Ping, Traceroute, Telnet, and Netcat. |
 | ✅ | [Pentesting Fundamentals](Pentesting-Fundamentals/README.md) | Red Team | Introduction to ethical hacking, RoE, and White/Black Box methodologies. |
 | ✅ | [Nmap Live Host Discovery](Nmap-Live-Host-Discovery/README.md) | Networking | Active host discovery using ARP, ICMP types, TCP/UDP pings, and Reverse DNS. |
+| ✅ | [Red Team Fundamentals](Red-Team-Fundamentals/README.md) | Red Team | Basics of red teaming, APT emulation, cell structures (Red/White), and the Cyber Kill Chain. |
+| ✅ | [Nmap](Nmap/README.md) | Red Team | Advanced port scanning techniques (SYN, UDP, Xmas), firewall evasion, and utilizing the Nmap Scripting Engine (NSE). |
 
 ### 🌐 Web Security & AppSec
 

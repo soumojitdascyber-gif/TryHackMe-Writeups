@@ -72,6 +72,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Defensive Security Intro](Defensive-Security-Intro-1/README.md) | Blue Team | Practical incident response lifecycle: Alert triage, containment, intelligence updating, and reporting. |
 | ✅ | [Intro to Digital Forensics](Intro-to-Digital-Forensics/README.md) | Blue Team | Basics of digital investigations, Chain of Custody, and metadata extraction using exiftool/pdfinfo. |
 | ✅ | [Detecting Web Attacks](Detecting-Web-Attacks/README.md) | Blue Team | Web attack detection via log analysis, spotting SQLi/Brute-force, and WAF configuration. |
+| ✅ | [Splunk Basics - Did you SIEM?](Splunk-Basics-Did-You-SIEM/README.md) | Blue Team | Introduction to SIEM, log ingestion, querying Splunk, and tracking C2 exfiltration. |
+| ✅ | [Preparation (Incident Response)](Preparation/README.md) | Blue Team | NIST SP 800-61 IR Lifecycle, Alert Triage, identifying Detection Gaps, and security policy reviews. |
 
 ### ⚔️ Offensive Security (Red Team)
 
@@ -95,6 +97,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [OWASP Top 10 2025: Insecure Data Handling](./OWASP-Top-10-2025-Insecure-Data-Handling/README.md) | Web Security | Explore SSTI, Insecure Deserialization, and Crypto failures. |
 | ✅ | [Web Application Security](Web-Application-Security/README.md) | Web Security | Introduction to web app vulnerabilities, Cryptographic Failures, and IDOR. |
 | ✅ | [Web Application Basics](Web-Application-Basics/README.md) | Web Security | Core HTTP/HTTPS concepts, request/response cycle, security headers, and API methods. |
+| ✅ | [Web Security Essentials](Web-Security-Essentials/README.md) | Web Security | Fundamentals of web infrastructure, defense-in-depth, patch management, and WAF concepts. |
 
 ### 🧠 Emerging Threats (AI)
 

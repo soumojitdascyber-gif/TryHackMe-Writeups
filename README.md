@@ -32,6 +32,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Windows Command Line](Windows-Command-Line/README.md) | Fundamentals | Essential CLI commands for system info, networking, and process management (cmd.exe). |
 | ✅ | [Cryptography Basics](Cryptography-Basics/README.md) | Fundamentals | Introduction to encryption, ciphertext, symmetric standards (AES/DES), and basic crypto math. |
 | ✅ | [CyberChef: The Basics](CyberChef-The-Basics/README.md) | Blue Team | Mastery of the CyberChef tool for data decoding, extraction, and encoding formats. |
+| ✅ | [Introductory Networking](Introductory-Networking/README.md) | Fundamentals | OSI & TCP/IP models, data encapsulation, and basic tools (Ping, Traceroute, Dig, WHOIS). |
+| ✅ | [Advent of Cyber Prep Track](Advent-of-Cyber-Prep-Track/README.md) | Fundamentals | 10 mini-challenges covering CLI navigation, OSINT, log analysis, and malware verification. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 
@@ -88,6 +90,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Nmap Live Host Discovery](Nmap-Live-Host-Discovery/README.md) | Networking | Active host discovery using ARP, ICMP types, TCP/UDP pings, and Reverse DNS. |
 | ✅ | [Red Team Fundamentals](Red-Team-Fundamentals/README.md) | Red Team | Basics of red teaming, APT emulation, cell structures (Red/White), and the Cyber Kill Chain. |
 | ✅ | [Nmap](Nmap/README.md) | Red Team | Advanced port scanning techniques (SYN, UDP, Xmas), firewall evasion, and utilizing the Nmap Scripting Engine (NSE). |
+| ✅ | [Become a Hacker](Become-a-Hacker/README.md) | Fundamentals | Introduction to the offensive security mindset, directory discovery, and password brute-forcing. |
 
 ### 🌐 Web Security & AppSec
 

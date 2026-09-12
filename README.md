@@ -109,6 +109,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [AI Threat Modelling Assessment](./AI-Threat-Modelling-Assessment/README.md) | AI Security | Apply threat modelling frameworks to secure AI systems. |
 
 ### 📚 Networking Core & Fundamentals
+
+| Status | Lab / Room Name | Category | Description |
 | :--- | :--- | :--- | :--- |
 | ✅ | [Starting Out In Cyber Sec](Starting-Out-In-Cyber-Sec/README.md) | Fundamentals | Overview of cyber security career paths: Penetration Testing vs. Security Analysis. |
 | ✅ | [How to use TryHackMe](How-to-use-TryHackMe/README.md) | Fundamentals | Introduction to the AttackBox environment and basic Linux CLI commands (ls, cd, cat). |

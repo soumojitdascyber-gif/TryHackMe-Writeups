@@ -76,6 +76,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Detecting Web Attacks](Detecting-Web-Attacks/README.md) | Blue Team | Web attack detection via log analysis, spotting SQLi/Brute-force, and WAF configuration. |
 | ✅ | [Splunk Basics - Did you SIEM?](Splunk-Basics-Did-You-SIEM/README.md) | Blue Team | Introduction to SIEM, log ingestion, querying Splunk, and tracking C2 exfiltration. |
 | ✅ | [Preparation (Incident Response)](Preparation/README.md) | Blue Team | NIST SP 800-61 IR Lifecycle, Alert Triage, identifying Detection Gaps, and security policy reviews. |
+| ✅ | [Unified Kill Chain](Unified-Kill-Chain/README.md) | Blue Team | Understanding the 18 phases of a cyber attack, mapping adversary actions, and breaking the chain. |
+| ✅ | [IR Playbooks](IR-Playbooks/README.md) | Blue Team | Designing IR playbooks, alert triage (FP vs. TP), and practical WannaCry ransomware investigation. |
 
 ### ⚔️ Offensive Security (Red Team)
 

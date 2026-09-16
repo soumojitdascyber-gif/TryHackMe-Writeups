@@ -93,6 +93,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Red Team Fundamentals](Red-Team-Fundamentals/README.md) | Red Team | Basics of red teaming, APT emulation, cell structures (Red/White), and the Cyber Kill Chain. |
 | ✅ | [Nmap](Nmap/README.md) | Red Team | Advanced port scanning techniques (SYN, UDP, Xmas), firewall evasion, and utilizing the Nmap Scripting Engine (NSE). |
 | ✅ | [Become a Hacker](Become-a-Hacker/README.md) | Fundamentals | Introduction to the offensive security mindset, directory discovery, and password brute-forcing. |
+| ✅ | [MS Sentinel: Introduction](MS-Sentinel-Introduction/README.md) | Blue Team | Cloud-native SIEM & SOAR fundamentals, log analytics workspaces, and automation playbooks. |
 
 ### 🌐 Web Security & AppSec
 

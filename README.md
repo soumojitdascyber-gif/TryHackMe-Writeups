@@ -94,6 +94,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Nmap](Nmap/README.md) | Red Team | Advanced port scanning techniques (SYN, UDP, Xmas), firewall evasion, and utilizing the Nmap Scripting Engine (NSE). |
 | ✅ | [Become a Hacker](Become-a-Hacker/README.md) | Fundamentals | Introduction to the offensive security mindset, directory discovery, and password brute-forcing. |
 | ✅ | [MS Sentinel: Introduction](MS-Sentinel-Introduction/README.md) | Blue Team | Cloud-native SIEM & SOAR fundamentals, log analytics workspaces, and automation playbooks. |
+| ✅ | [Nmap Basic Port Scans](Nmap-Basic-Port-Scans/README.md) | Red Team | Deep dive into port states, TCP flags, scan timing (-T0), and parallelism. |
+| ✅ | [Hydra](Hydra/README.md) | Red Team | Utilizing Hydra for high-speed network logon cracking and web form brute-forcing. |
 
 ### 🌐 Web Security & AppSec
 
@@ -117,6 +119,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | :--- | :--- | :--- | :--- |
 | ✅ | [Starting Out In Cyber Sec](Starting-Out-In-Cyber-Sec/README.md) | Fundamentals | Overview of cyber security career paths: Penetration Testing vs. Security Analysis. |
 | ✅ | [How to use TryHackMe](How-to-use-TryHackMe/README.md) | Fundamentals | Introduction to the AttackBox environment and basic Linux CLI commands (ls, cd, cat). |
+| ✅ | [Getting Started](Getting-Started/README.md) | Fundamentals | Introduction to practical web hacking: discovering hidden directories and exploiting default credentials. |
 ---
 ## 🛠️ Tools & Technologies I Use
 * **OS/Environments:** Kali Linux, Windows 

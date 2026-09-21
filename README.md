@@ -34,6 +34,9 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [CyberChef: The Basics](CyberChef-The-Basics/README.md) | Blue Team | Mastery of the CyberChef tool for data decoding, extraction, and encoding formats. |
 | ✅ | [Introductory Networking](Introductory-Networking/README.md) | Fundamentals | OSI & TCP/IP models, data encapsulation, and basic tools (Ping, Traceroute, Dig, WHOIS). |
 | ✅ | [Advent of Cyber Prep Track](Advent-of-Cyber-Prep-Track/README.md) | Fundamentals | 10 mini-challenges covering CLI navigation, OSINT, log analysis, and malware verification. |
+| ✅ | [Linux CLI - Shells Bells](Linux-CLI-Shells-Bells/README.md) | Fundamentals | Basic Linux navigation, log filtering with `grep`, and root privilege escalation. |
+| ✅ | [Learning Cyber Security](Learning-Cyber-Security/README.md) | Fundamentals | Real-world breach consequences and web app account brute-forcing concepts. |
+| ✅ | [Cryptography for Dummies](Cryptography-for-Dummies/README.md) | Fundamentals | Symmetric vs Asymmetric keys, MD5 hashing, and Base64 encoding vs encryption. |
 
 ### 🛡️ Defensive Security (SOC / Blue Team)
 

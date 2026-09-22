@@ -81,6 +81,10 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Preparation (Incident Response)](Preparation/README.md) | Blue Team | NIST SP 800-61 IR Lifecycle, Alert Triage, identifying Detection Gaps, and security policy reviews. |
 | ✅ | [Unified Kill Chain](Unified-Kill-Chain/README.md) | Blue Team | Understanding the 18 phases of a cyber attack, mapping adversary actions, and breaking the chain. |
 | ✅ | [IR Playbooks](IR-Playbooks/README.md) | Blue Team | Designing IR playbooks, alert triage (FP vs. TP), and practical WannaCry ransomware investigation. |
+| ✅ | [Intro to Cyber Threat Intel](Intro-to-Cyber-Threat-Intel/README.md) | Blue Team | Understanding CTI lifecycles, Technical Intel classifications, and TAXII sharing models. |
+| ✅ | [DFIR: An Introduction](DFIR-An-Introduction/README.md) | Blue Team | Basics of Digital Forensics and Incident Response, data volatility (RAM), and IR lifecycle phases. |
+| ✅ | [Network Discovery Detection](Network-Discovery-Detection/README.md) | Blue Team | Analyzing Zeek and Kibana logs to detect horizontal/vertical scanning and network sweeps. |
+
 
 ### ⚔️ Offensive Security (Red Team)
 

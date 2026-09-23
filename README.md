@@ -104,6 +104,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Nmap Basic Port Scans](Nmap-Basic-Port-Scans/README.md) | Red Team | Deep dive into port states, TCP flags, scan timing (-T0), and parallelism. |
 | ✅ | [Hydra](Hydra/README.md) | Red Team | Utilizing Hydra for high-speed network logon cracking and web form brute-forcing. |
 | ✅ | [Phishing: HiddenEye](Phishing-HiddenEye/README.md) | Red Team | Introduction to automated social engineering tools, credential harvesting, and the HTTPS phishing myth. |
+| ✅ | [Bounty Hacker](Bounty-Hacker/README.md) | Red Team / CTF | Full attack chain: Nmap scanning, Anonymous FTP enumeration, Hydra SSH brute-forcing, and Linux Privilege Escalation. |
 
 ### 🌐 Web Security & AppSec
 

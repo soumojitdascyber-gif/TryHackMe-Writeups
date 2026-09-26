@@ -85,7 +85,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [DFIR: An Introduction](DFIR-An-Introduction/README.md) | Blue Team | Basics of Digital Forensics and Incident Response, data volatility (RAM), and IR lifecycle phases. |
 | ✅ | [Network Discovery Detection](Network-Discovery-Detection/README.md) | Blue Team | Analyzing Zeek and Kibana logs to detect horizontal/vertical scanning and network sweeps. |
 | ✅ | [Introduction to Windows IR](Introduction-to-Windows-IR/README.md) | Blue Team | Starting the IR process, identifying EDR misconfigurations, and gathering initial artifacts. |
-| ✅ | [Threat Hunting: Introduction 2](Threat-Hunting-Introduction 2/README.md) | Blue Team | Proactive threat hunting methodologies, minimizing dwell time, and mapping threats via MITRE ATT&CK. |
+| ✅ | [Threat Hunting: Introduction 2 ](Threat-Hunting-Introduction 2 /README.md) | Blue Team | Proactive threat hunting methodologies, minimizing dwell time, and mapping threats via MITRE ATT&CK. |
 
 ### ⚔️ Offensive Security (Red Team)
 

@@ -133,8 +133,12 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Getting Started](Getting-Started/README.md) | Fundamentals | Introduction to practical web hacking: discovering hidden directories and exploiting default credentials. |
 ---
 ## 🛠️ Tools & Technologies I Use
-* **OS/Environments:** Kali Linux, Windows 
-* **Networking & Discovery:** Nmap, Telnet
+
+* **OS/Environments:** Kali Linux, Windows
+* **OSINT & Passive Reconnaissance:** Shodan, DNSDumpster, Whois, Nslookup
+* **Active Scanning & Enumeration:** Nmap, Telnet
+* **Offensive Security & Exploitation:** Hydra, Metasploit, Burp Suite
+* **Defensive Security (SOC/DFIR):** MS Sentinel, Splunk, Kibana, Zeek, DumpIt
 * **Documentation & Version Control:** Markdown, Git/GitHub
 ---
 > *"In cybersecurity, hands-on experience and practical logic speak louder than words."*

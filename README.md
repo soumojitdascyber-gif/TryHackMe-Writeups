@@ -86,6 +86,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Network Discovery Detection](Network-Discovery-Detection/README.md) | Blue Team | Analyzing Zeek and Kibana logs to detect horizontal/vertical scanning and network sweeps. |
 | ✅ | [Introduction to Windows IR](Introduction-to-Windows-IR/README.md) | Blue Team | Starting the IR process, identifying EDR misconfigurations, and gathering initial artifacts. |
 | ✅ | [Threat Hunting: Introduction-2](Threat-Hunting-Introduction-2/README.md) | Blue Team | Proactive threat hunting methodologies, minimizing dwell time, and mapping threats via MITRE ATT&CK. |
+| ✅ | [Security Engineer Intro](Security-Engineer-Intro/README.md) | Blue Team | Daily operations of a Security Engineer: Asset management, Secure by Design, Compliance, and Disaster Recovery (Tabletop exercises). |
 
 ### ⚔️ Offensive Security (Red Team)
 
@@ -106,7 +107,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Hydra](Hydra/README.md) | Red Team | Utilizing Hydra for high-speed network logon cracking and web form brute-forcing. |
 | ✅ | [Phishing: HiddenEye](Phishing-HiddenEye/README.md) | Red Team | Introduction to automated social engineering tools, credential harvesting, and the HTTPS phishing myth. |
 | ✅ | [Bounty Hacker](Bounty-Hacker/README.md) | Red Team / CTF | Full attack chain: Nmap scanning, Anonymous FTP enumeration, Hydra SSH brute-forcing, and Linux Privilege Escalation. |
-
+| ✅ | [The Hacker Methodology](The-Hacker-Methodology/README.md) | Fundamentals | The 5-step ethical hacking process: Reconnaissance, Enumeration, Exploitation, Privilege Escalation, and Reporting. |
 ### 🌐 Web Security & AppSec
 
 | Status | Lab / Room Name | Category | Description |

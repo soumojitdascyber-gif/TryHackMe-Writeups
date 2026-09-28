@@ -87,6 +87,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Introduction to Windows IR](Introduction-to-Windows-IR/README.md) | Blue Team | Starting the IR process, identifying EDR misconfigurations, and gathering initial artifacts. |
 | ✅ | [Threat Hunting: Introduction-2](Threat-Hunting-Introduction-2/README.md) | Blue Team | Proactive threat hunting methodologies, minimizing dwell time, and mapping threats via MITRE ATT&CK. |
 | ✅ | [Security Engineer Intro](Security-Engineer-Intro/README.md) | Blue Team | Daily operations of a Security Engineer: Asset management, Secure by Design, Compliance, and Disaster Recovery (Tabletop exercises). |
+| ✅ | [Report Writing for SOC L2](Report-Writing-for-SOC-L2/README.md) | Blue Team | Senior SOC skills: Drafting executive summaries, chronological attack timelines, and GenAI prompt engineering. |
 
 ### ⚔️ Offensive Security (Red Team)
 

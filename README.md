@@ -109,6 +109,8 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Phishing: HiddenEye](Phishing-HiddenEye/README.md) | Red Team | Introduction to automated social engineering tools, credential harvesting, and the HTTPS phishing myth. |
 | ✅ | [Bounty Hacker](Bounty-Hacker/README.md) | Red Team / CTF | Full attack chain: Nmap scanning, Anonymous FTP enumeration, Hydra SSH brute-forcing, and Linux Privilege Escalation. |
 | ✅ | [The Hacker Methodology](The-Hacker-Methodology/README.md) | Fundamentals | The 5-step ethical hacking process: Reconnaissance, Enumeration, Exploitation, Privilege Escalation, and Reporting. |
+| ✅ | [W1seGuy](W1seGuy/README.md) | Cryptography / CTF | XOR brute-forcing, custom scripting, and known-plaintext attacks. |
+
 ### 🌐 Web Security & AppSec
 
 | Status | Lab / Room Name | Category | Description |

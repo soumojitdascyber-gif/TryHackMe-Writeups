@@ -128,6 +128,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | Status | Lab / Room Name | Category | Description |
 | :--- | :--- | :--- | :--- |
 | ✅ | [AI Threat Modelling Assessment](./AI-Threat-Modelling-Assessment/README.md) | AI Security | Apply threat modelling frameworks to secure AI systems. |
+| ✅ | [BankGPT](BankGPT/README.md) | AI Security | Exploiting a live LLM banking assistant using prompt injection to extract a secret API key. |
 
 ### 📚 Networking Core & Fundamentals
 

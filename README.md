@@ -88,6 +88,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Threat Hunting: Introduction-2](Threat-Hunting-Introduction-2/README.md) | Blue Team | Proactive threat hunting methodologies, minimizing dwell time, and mapping threats via MITRE ATT&CK. |
 | ✅ | [Security Engineer Intro](Security-Engineer-Intro/README.md) | Blue Team | Daily operations of a Security Engineer: Asset management, Secure by Design, Compliance, and Disaster Recovery (Tabletop exercises). |
 | ✅ | [Report Writing for SOC L2](Report-Writing-for-SOC-L2/README.md) | Blue Team | Senior SOC skills: Drafting executive summaries, chronological attack timelines, and GenAI prompt engineering. |
+| ✅ | [OT/ICS Security](OT-ICS-Security/README.md) | Blue Team / OT | Basics of Operational Technology, ICS, PLCs, HMIs, and prioritizing safety over encryption in physical environments. |
 
 ### ⚔️ Offensive Security (Red Team)
 
@@ -110,6 +111,7 @@ Each folder in this repository represents a dedicated lab or project. Inside eac
 | ✅ | [Bounty Hacker](Bounty-Hacker/README.md) | Red Team / CTF | Full attack chain: Nmap scanning, Anonymous FTP enumeration, Hydra SSH brute-forcing, and Linux Privilege Escalation. |
 | ✅ | [The Hacker Methodology](The-Hacker-Methodology/README.md) | Fundamentals | The 5-step ethical hacking process: Reconnaissance, Enumeration, Exploitation, Privilege Escalation, and Reporting. |
 | ✅ | [W1seGuy](W1seGuy/README.md) | Cryptography / CTF | XOR brute-forcing, custom scripting, and known-plaintext attacks. |
+| ✅ | [Google Dorking](Google-Dorking/README.md) | OSINT / Recon | Using search engine operators (site, filetype, intitle), robots.txt, and XML sitemaps to uncover hidden info. |
 
 ### 🌐 Web Security & AppSec
 
